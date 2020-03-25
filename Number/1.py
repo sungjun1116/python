@@ -1,0 +1,8 @@
+print("Hello, worlld!")
+print(10 + 5)
+print(10 - 5)
+print(10 * 5)
+print(10 / 5)
+print("'Hello'")
+print('"!@#$%^&*()"')
+print("\u251C\u253C\u2524\n")
